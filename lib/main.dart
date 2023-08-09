@@ -4,7 +4,7 @@ import 'package:flutter_hive_crud/home_page/view/home_page.dart';
 import 'package:get/get.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-// main branch
+// emon branch
 void main() async{
 
   WidgetsFlutterBinding.ensureInitialized();
